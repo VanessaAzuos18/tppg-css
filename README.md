@@ -13,7 +13,7 @@
 - [ ] Otimizar o código
 
 ## Terceiro desafio:
-- [ ] Desenhar a beijinho
+- [ ] Desenhar a lindinha
 - [ ] Otimizar o código
 
 ## Quarto desafio:
