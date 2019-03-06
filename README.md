@@ -16,6 +16,8 @@
 - [ ] Corpo
 - [ ] Otimizar o código
 
+![imagem-florzinha-blossom](https://vignette.wikia.nocookie.net/powerpuff/images/2/23/Blossom-pic.png/revision/latest?cb=20130517081824)
+
 ## Terceiro desafio:
 #### Desenhar a lindinha (bubbles)
 - [ ] Cabeça
