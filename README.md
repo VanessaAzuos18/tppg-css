@@ -4,24 +4,21 @@
 
 ## Pimeiro desafio:
 #### Desenhar a docinho (buttercup)
-- [X] Cabeça
-- [ ] Corpo
+- [X] Desenho
 - [ ] Otimizar o código
 
 ![imagem-docinho-buttercup](https://i.pinimg.com/originals/b9/29/80/b92980fb5015a32ea8c582f264be8068.png)
 
 ## Segundo desafio:
 #### Desenhar a florzinha (blossom)
-- [ ] Cabeça
-- [ ] Corpo
+- [ ] Desenho
 - [ ] Otimizar o código
 
 ![imagem-florzinha-blossom](https://vignette.wikia.nocookie.net/powerpuff/images/2/23/Blossom-pic.png/revision/latest?cb=20130517081824)
 
 ## Terceiro desafio:
 #### Desenhar a lindinha (bubbles)  
-- [ ] Cabeça
-- [ ] Corpo
+- [ ] Desenho
 - [ ] Otimizar o código
 
 ![imagem-lindinha-bubbles](https://vignette.wikia.nocookie.net/powerpuff/images/7/7b/Bubbles-pic.png/revision/latest?cb=20160727212257)
