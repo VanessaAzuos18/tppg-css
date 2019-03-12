@@ -4,7 +4,7 @@
 
 ## Pimeiro desafio:
 #### Desenhar a docinho (buttercup)
-- [X] Desenho
+- [ ] Desenho
 - [ ] Otimizar o código
 
 ![imagem-docinho-buttercup](https://i.pinimg.com/originals/b9/29/80/b92980fb5015a32ea8c582f264be8068.png)
