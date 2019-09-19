@@ -27,6 +27,8 @@
 - [ ] Desenhar as três
 - [ ] Otimizar o código
 
+![imagem-das-tres](https://sm.mashable.com/t/mashable_in/photo/default/powerpuff-girls-wallpaper-new_f9aj.910.jpg)
+
 ## Quinto desafio:
 - [ ] Implementar CSS animations ao 4º desenho
 - [ ] Otimizar o código
