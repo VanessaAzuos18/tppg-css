@@ -1,6 +1,6 @@
 # AS MENINAS SUPERPODEROSAS (the powerpuff girls) EM CSS
 
-##### O desafio consiste em criar todas as personagens do desenho em css individualmente e, após, em conjunto.
+##### O desafio consiste em criar todas as personagens do desenho em css individualmente e após em conjunto.
 
 ## Pimeiro desafio:
 #### Desenhar a docinho (buttercup)
