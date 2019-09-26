@@ -175,10 +175,47 @@ body {
     position: absolute;
 }
 
-/* BODY */
-#body {
-    background-color: var(--white-lg-color);
-    width: 120px;
-    transform: translate(-200px, 200px);
+/* ARM */
+#arm {
+    width: 0;
+    height: 0;
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid var(--skin-color);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+/* DRESS */
+#dress {
+    background-color: #000;
+    position: relative;
+    height: 30px;
+    width: 100px;
+    display: block;
+    border-right: 4px solid #000;
+    transform: translate(-200px, 275px);
     z-index: -1;
+}
+
+#dress:before,
+#dress:after {
+    background-color: var(--green-color);
+    content: '';
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: 2px solid #000;
+}
+
+#dress:before {
+    top: -33px;
+}
+
+#dress:after {
+    bottom: -33px;
 }
